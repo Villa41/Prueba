@@ -1,4 +1,3 @@
-# Prueba
-probando el repo
-123123123123qweqweqweqwe
-AÒadiendo nueva linea
+# Dron-Etapa-1
+Dron etapa 1
+El archivo que ejecuta la aplicaci√≥n se encuentra en src/vista/Ejecutar.java
