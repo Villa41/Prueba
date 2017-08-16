@@ -74,7 +74,6 @@ public class ControladorDron {
 	public void registrarPosicion(){
 		
 		dron = desplazarDron.getDron();
-		//TODO guardar en archivo out.txt
 		String posicion = dron.getX()+","+dron.getY()+","+dron.getOrientacion();
 		System.out.println("out.txt: "+posicion);
 		
