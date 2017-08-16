@@ -20,7 +20,7 @@ public class ControladorDron {
 	public ControladorDron (Dron  dron){
 		desplazarDron = new DesplazarDron(dron);
 		this.dron = dron; // con esta linea ya puede tener el dron diferente de nulo
-		//asdasdasdasd
+		//asdasdasdasdasdasdasd
 	}
 	
 	/**
