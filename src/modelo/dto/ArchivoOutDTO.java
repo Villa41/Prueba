@@ -13,7 +13,7 @@ public class ArchivoOutDTO {
 		this.y = dron.getY();
 		this.orientacion = dron.getOrientacion();
 	}
-	
+	//asdasd
 
 	public int getX() {
 		return x;
