@@ -30,7 +30,7 @@ public class ControladorDron {
 		if(recorridos.size() == 3){
 			//ciclo pedidos
 			for (String recorrido : recorridos){
-				//TODO guardar en ini.txt
+				
 				
 				//aqui en este punto el objeto dron es nulo porque el dron que recibe el controlador se le envia al constructor del objeto desplazar dron
 				
